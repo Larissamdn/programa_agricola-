@@ -1,0 +1,1 @@
+tomate {'ara' : 5.0, 'mudas': 100.0, 'insumos': 30.0, 'mao de obra': 60.0, 'energia': 600.0 }
